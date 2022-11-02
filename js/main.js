@@ -183,7 +183,7 @@
                         wait: void 0,
                         color: void 0
                     },
-                    fireWords: "张翻翻|我爱你|永远把你|捧在手心|和你一起|浪漫的|度过一生",
+                    fireWords: "张翻翻|我爱你|永远把你|捧在手心|人生路很长|我们一起|慢慢走",
                     skyColor: "hsla({hue}, 60%, {lightness}%, 0.2)",
                     fireOpt: {
                         wordInterval: 3e3

@@ -1000,7 +1000,7 @@
             };
             e.default = r
         }, function (t, e, i) {
-            t.exports = i.p + "img/bg2.jpg"
+            t.exports = i.p + "img/1fec46180d00901937d79bfab51c57c5b40a2c52.jpg"
         }, function (t, e, i) {
             t.exports = i.p + "img/musicon.png"
         }, function (t, e, i) {

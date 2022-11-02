@@ -183,7 +183,7 @@
                         wait: void 0,
                         color: void 0
                     },
-                    fireWords: "张翻翻|我爱你|我行过很多地方的桥|看过许多次数的云|喝过许多地方的饮料却只爱过一个正当最好年纪的人",
+                    fireWords: "张翻翻|我爱你|永远把你|捧在手心|和你一起|浪漫的|度过一生",
                     skyColor: "hsla({hue}, 60%, {lightness}%, 0.2)",
                     fireOpt: {
                         wordInterval: 3e3
@@ -192,13 +192,13 @@
                         gap: 3
                     },
                     word: {
-                        size: 70,
+                        size: 50,
                         y: u / 4
                     },
                     titleWords: "豆沙和豆沙包|在一起七周年|永远幸福！",
                     titleOpt: {
                         gap: 4,
-                        size: 70,
+                        size: 50,
                         pSize: 8,
                         delay: 4e3,
                         distance: 120,

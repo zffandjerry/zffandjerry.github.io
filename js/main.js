@@ -1000,7 +1000,7 @@
             };
             e.default = r
         }, function (t, e, i) {
-            t.exports = i.p + "img/bg2.jpg"
+            t.exports = i.p + "img/bg3.jpg"
         }, function (t, e, i) {
             t.exports = i.p + "img/musicon.png"
         }, function (t, e, i) {
